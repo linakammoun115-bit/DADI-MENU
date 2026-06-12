@@ -1,0 +1,14 @@
+{
+  "name": "Dadi Salon de Thé",
+  "short_name": "Dadi",
+  "description": "Salon de thé premium à Sfax — Saveurs, détente et moments inoubliables.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#0D0D0D",
+  "icons": [
+    { "src": "/__l5e/assets-v1/5927d753-131c-4f8f-a32c-7314fb9770a6/dadi-logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/__l5e/assets-v1/5927d753-131c-4f8f-a32c-7314fb9770a6/dadi-logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" }
+  ]
+}
